@@ -23,3 +23,20 @@ lastName = "Doe";
 
 //Display in an alert box `My name is [someone's full name] and I am [age] years old.`
 alert(`My name is ${firstName} ${lastName} and I am ${humanAge} years old.`);
+
+//Use a combination of console log and typof to see the data types for the following;
+//(1)12+6
+console.log(12 + 16);
+console.log(typeof (12 + 16));
+
+//(2)`true`
+console.log("true");
+console.log(typeof "true");
+
+//(3)null
+console.log(null);
+console.log(typeof null);
+
+//(4)false
+console.log(false);
+console.log(typeof false);
